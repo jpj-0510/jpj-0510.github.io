@@ -10,7 +10,7 @@ url: http://jpj-0510.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: '/jekyll-clean-dark'
 
-author:JPJ
+author: JPJ
 copyright: 2024-2025
 
 share:
